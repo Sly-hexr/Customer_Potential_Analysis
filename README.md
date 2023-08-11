@@ -1,4 +1,4 @@
-# potential-enigma
+# customer potential for pool place USA
 
 #### Nicholas Rowland
 
