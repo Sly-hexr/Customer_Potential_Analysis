@@ -13,7 +13,7 @@ the dataset has 48,842 rows across 15 features showing various factors like educ
 ![scatterplot](https://github.com/Sly-hexr/potential-enigma/assets/133910731/8331a8f4-fa64-442e-9bbd-869492213d44)
 
 
-## Barplot compairing peoples age to their hours per week
+## Barplot comparing peoples age to their hours per week
 ![barplot](https://github.com/Sly-hexr/potential-enigma/assets/133910731/dd5c27c8-049f-4b00-9ab5-5e12eb0516ca)
 
 # Train data for our production model
