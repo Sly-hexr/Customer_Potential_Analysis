@@ -22,4 +22,4 @@ the dataset has 48,842 rows across 15 features showing various factors like educ
 # Test data for our production model
 ![testdata](https://github.com/Sly-hexr/potential-enigma/assets/133910731/1ab92f47-9ab4-47de-aee4-c4e06af3d79b)
 
-Our model would be incredibly effective at preventing false positives which would be one of our primary focuses to insure that we have the highest retention rate and customer base for our services.
+Our model would be incredibly effective at preventing false positives which would be one of our primary focuses to insure that we have the highest retention rate and customer base for our services while bringing the service to the proper clientele.
