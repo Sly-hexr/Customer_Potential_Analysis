@@ -1,4 +1,4 @@
-# customer potential for pool place USA
+# Customer potential for pool place USA
 
 #### Nicholas Rowland
 
@@ -9,7 +9,7 @@ and clean that dataframe then selecting one and cleaning it to prepare it for an
 dataframe source: https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
 the dataset has 48,842 rows across 15 features showing various factors like education, age, job, and capital gains/losses
 
-## stripplot comparing how many years of school someone went through versus their hours per week
+## Stripplot comparing how many years of school someone went through versus their hours per week
 ![scatterplot](https://github.com/Sly-hexr/potential-enigma/assets/133910731/8331a8f4-fa64-442e-9bbd-869492213d44)
 
 
